@@ -16,3 +16,4 @@ function colors() {
         mainColor.style.padding = "20px 50px";
     }
 }
+//adding text here to test git
